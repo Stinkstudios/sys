@@ -2,7 +2,7 @@
 pkg-config = "0.3.7"
 
 [dependencies]
-glib-sys = "0.7.0"
+glib-sys = { git = "https://github.com/stinkstudios/sys", tag = "0.7.1", version = "0.7.1" }
 libc = "0.2"
 
 [dev-dependencies]
