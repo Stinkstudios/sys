@@ -2,7 +2,7 @@
 pkg-config = "0.3.7"
 
 [dependencies]
-cairo-sys-rs = { git = "https://github.com/stinkstudios/cairo", tag = "0.5.0", version = "0.7.1" }
+cairo-sys-rs = { git = "https://github.com/stinkstudios/cairo", tag = "0.5.1", version = "0.7.1" }
 gdk-pixbuf-sys = { git = "https://github.com/stinkstudios/sys", tag = "0.7.1", version = "0.7.1" }
 gio-sys = { git = "https://github.com/stinkstudios/sys", tag = "0.7.1", version = "0.7.1" }
 glib-sys = { git = "https://github.com/stinkstudios/sys", tag = "0.7.1", version = "0.7.1" }
